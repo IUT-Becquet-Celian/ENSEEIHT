@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631883501 source:c:\users\ceceb\documents\enseeiht\informatique de l'ingénieur\projets\exercice 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
