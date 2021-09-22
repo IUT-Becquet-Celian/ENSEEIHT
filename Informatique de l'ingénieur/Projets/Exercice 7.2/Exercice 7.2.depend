@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632325485 source:c:\users\ceceb\documents\enseeiht\informatique de l'ingénieur\projets\exercice 7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
